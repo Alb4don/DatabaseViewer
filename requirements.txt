@@ -1,0 +1,7 @@
+streamlit
+pandas
+networkx
+plotly
+scikit-learn
+sqlalchemy
+pymongo
